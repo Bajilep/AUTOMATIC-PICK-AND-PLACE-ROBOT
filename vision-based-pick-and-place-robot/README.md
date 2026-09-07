@@ -110,5 +110,4 @@ The Arduino firmware referenced by the Python program was not present in the ori
 ## Author
 
 **Bajil Mohammed E.P.**  
-B.Tech in Electrical and Electronics Engineering  
-Cochin University of Science and Technology (CUSAT)
+
