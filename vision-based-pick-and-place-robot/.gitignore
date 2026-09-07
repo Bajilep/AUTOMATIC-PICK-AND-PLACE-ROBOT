@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Runtime-generated files
+tmp_voice*.wav
+prev_teta.txt
+
+# Large pretrained model files (downloaded automatically by Ultralytics)
+*.pt
+*.weights
+
+# Local camera recordings and logs
+*.mp4
+*.avi
+*.log
+

@@ -1,0 +1,9 @@
+numpy
+opencv-contrib-python
+pyserial
+scipy
+sounddevice
+soundfile
+SpeechRecognition
+ultralytics
+
